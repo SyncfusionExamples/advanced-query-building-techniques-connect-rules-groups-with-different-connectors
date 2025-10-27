@@ -1,5 +1,5 @@
 {
-  "name": "independent-connector",
+  "name": "independent-connector"
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
